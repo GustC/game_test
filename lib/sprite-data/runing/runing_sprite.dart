@@ -1,0 +1,16 @@
+const runningSprites = [
+  'run/megaman_run_00.png',
+  'run/megaman_run_01.png',
+  'run/megaman_run_02.png',
+  'run/megaman_run_03.png',
+  'run/megaman_run_04.png',
+  'run/megaman_run_05.png',
+  'run/megaman_run_06.png',
+  'run/megaman_run_07.png',
+  'run/megaman_run_08.png',
+  'run/megaman_run_09.png',
+  'run/megaman_run_10.png',
+  'run/megaman_run_11.png',
+  'run/megaman_run_12.png',
+  'run/megaman_run_13.png',
+];
